@@ -1,4 +1,2 @@
 This is a sample text file..
 Adding a line for #C1
-
-This is when 'feature-sample2' was built
