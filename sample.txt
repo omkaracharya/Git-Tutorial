@@ -1,3 +1,4 @@
 This is a sample text file..
 Adding a line for #C1
-Adding a line for #C2
+Adding a line for #C2.
+Adding a line for #C3
